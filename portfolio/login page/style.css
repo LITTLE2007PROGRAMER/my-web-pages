@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(252, 252, 252);
+    font-family:cursive
+}
+.title{
+    background-color:rgb(100, 168, 228);
+    color:black;
+    border-radius:20px;
+    text-align:center;
+    font-family:cursive;
+    border-radius:20px;
+    box-shadow:0px 4px 10px rgba(0, 0, 0, 0.5);
+    margin-top:10px;
+    padding:4px;
+}
+.fields{
+    background-color:rgb(100, 168, 228);
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    text-align:center;
+    border-radius:20px;
+    width:25%;
+    box-shadow:0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+input{
+    border-radius:10px;
+    padding:10px;
+}
+.footer{
+    background-color:rgb(100, 168, 228);
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0px 4px 10px rgba(0, 0, 0, 0.5);
+
+}
+a{
+    text-decoration: solid;
+    color:darkblue;
+}
+
